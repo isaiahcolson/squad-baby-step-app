@@ -1,5 +1,5 @@
 // eslint-disable-next-line @typescript-eslint/no-var-requires
-const tokens = require('@ramsey-design-system/tokens');
+const tokens = require('./src/scss/_tokens.json');
 
 module.exports = {
   content: ['./src/**/*.{html,js,ts,tsx}'],

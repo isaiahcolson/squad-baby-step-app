@@ -22,15 +22,15 @@ select {
 }
 
 html {
-  background-color: $rds-color-base-gray-80;
-  color: $rds-color-base-white;
+  background-color: #333a3d;
+  color: #fff;
   font-family: $rds-font-family-default;
   font-size: 100%;
 }
 
 body {
-  line-height: $rds-size-line-height-lg;
-  font-size: $rds-size-font-4;
+  line-height: 1.5;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased; // stylelint-disable-line no-vendor-prefixes
   -moz-osx-font-smoothing: grayscale; // stylelint-disable-line no-vendor-prefixes
 }
@@ -60,17 +60,17 @@ h4,
 h5,
 h6 {
   font-family: $rds-font-family-header-default;
-  font-size: $rds-size-font-4;
-  font-weight: $rds-font-weight-semibold;
+  font-size: 18px;
+  font-weight: 600;
 }
 
 b,
 strong {
-  font-weight: $rds-font-weight-semibold;
+  font-weight: 600;
 }
 
 a {
-  color: $rds-color-base-blue-50;
+  color: #0073b9;
 
   &:hover,
   &:focus {
@@ -79,7 +79,7 @@ a {
 
   /* stylelint-disable selector-no-qualifying-type */
   &.in-modeDark {
-    color: $rds-color-base-white;
+    color: #fff;
   }
   /* stylelint-enable selector-no-qualifying-type */
 }
@@ -87,7 +87,7 @@ a {
 small,
 sub,
 sup {
-  font-size: $rds-size-font-2;
+  font-size: 14px;
 }
 
 button,
@@ -95,5 +95,5 @@ input,
 optgroup,
 select,
 textarea {
-  line-height: $rds-size-line-height-md;
+  line-height: 1.25;
 }

@@ -1555,11 +1555,6 @@
     schema-utils "^3.0.0"
     source-map "^0.7.3"
 
-"@ramsey-design-system/tokens@^1.1.0":
-  version "1.1.0"
-  resolved "https://ramseysolutions.jfrog.io/artifactory/api/npm/npm/~/up/ver_2aXLiC/%40ramsey-design-system%2Ftokens-1.1.0.tgz#cdddaeed5125c82d3ce51f15706ec93f63095103"
-  integrity sha1-zd2u7VElyC085R8VcG7JP2MJUQM=
-
 "@ramseyinhouse/eslint-config@^1.0.4":
   version "1.0.4"
   resolved "https://ramseysolutions.jfrog.io/artifactory/api/npm/npm/@ramseyinhouse/eslint-config/-/eslint-config-1.0.4.tgz#74fb41acaab9915939c0a45273f2062203529d3c"

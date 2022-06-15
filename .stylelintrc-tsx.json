@@ -4,7 +4,6 @@
   ],
   "extends": [
     "stylelint-config-standard-scss",
-    "@ramseyinhouse/stylelint-config",
     "stylelint-config-styled-components"
   ],
   "rules": {

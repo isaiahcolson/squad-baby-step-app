@@ -2,7 +2,7 @@
   "root": true,
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint"],
-  "extends": ["plugin:@typescript-eslint/recommended", "@ramseyinhouse"],
+  "extends": ["plugin:@typescript-eslint/recommended"],
   "rules": {
     "camelcase": "off",
     "comma-dangle": ["error", "always-multiline"],

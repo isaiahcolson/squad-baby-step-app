@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "stylelint-config-standard-scss",
+    "@ramseyinhouse/stylelint-config"
+  ],
+  "rules": {
+    "color-function-notation": null
+  }
+}

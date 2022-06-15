@@ -1,0 +1,15 @@
+{
+  "processors": [
+    "stylelint-processor-styled-components"
+  ],
+  "extends": [
+    "stylelint-config-standard-scss",
+    "@ramseyinhouse/stylelint-config",
+    "stylelint-config-styled-components"
+  ],
+  "rules": {
+    "color-function-notation": null,
+    "selector-class-pattern": null,
+    "value-keyword-case": null
+  }
+}

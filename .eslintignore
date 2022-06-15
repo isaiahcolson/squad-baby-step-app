@@ -1,0 +1,4 @@
+node_modules
+dist
+coverage
+styled.d.ts

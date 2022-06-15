@@ -1,0 +1,12 @@
+// shared mixins, functions, variables
+@import 'node_modules/@ramsey-design-system/tokens/dist/mixins';
+@import 'node_modules/@ramsey-design-system/tokens/dist/variables';
+@import 'scut';
+@import 'variables';
+
+// global reset
+@import 'reset';
+
+// external rule sets
+@import 'node_modules/@ramsey-design-system/tokens/dist/custom-properties';
+@import 'node_modules/@ramsey-design-system/heading/sass';

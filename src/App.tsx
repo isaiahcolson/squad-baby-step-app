@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
   const totalDebt = 230169;
-  const debtRemaining = 32200;
+  const debtRemaining = 28500;
   const currentProgress = totalDebt - debtRemaining;
   const progressValue = (currentProgress / totalDebt) * 100;
 
